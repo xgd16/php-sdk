@@ -1,5 +1,5 @@
 {
-    "name": "xgd16/php-sdk",
+    "name": "xgd16/qiniu-php-sdk",
     "type": "library",
     "description": "Qiniu Resource (Cloud) Storage SDK for PHP",
     "keywords": [
